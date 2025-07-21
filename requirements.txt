@@ -7,4 +7,4 @@ pandas
 datetime 
 datetime
 timedelta
-matplotlib.pyplot
+matplotlib
