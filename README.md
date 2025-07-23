@@ -1,2 +1,1 @@
-# ARV-Rent
-Enter and address and get an ARV / Rent estimate via rentcast.io API
+A lightweight Streamlit application that leverages the RentCast API to generate real-time property insights. By entering an address, users receive an estimated home value (ARV), local rent projections, and potential appreciation trends. The app also provides raw output data to support a comprehensive analysis of the property’s real estate profile.
